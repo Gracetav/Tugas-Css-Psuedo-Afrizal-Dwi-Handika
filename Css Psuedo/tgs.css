@@ -1,0 +1,92 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.bg{
+    height: 650px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(download.jpg);
+}
+.Website{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-size: 34px;
+    line-height: 40px;
+
+}
+.Website:hover{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    line-height: 40px;
+}
+.home{
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    color: white;
+}
+.psd:hover{
+background-color: darkgoldenrod;
+color: white;
+}
+.contact:hover{
+background-color: darkgreen;
+color: white;
+}
+.sts{
+    font-family: none;
+}
+.h1{
+    font-size: 55px;
+    text-decoration: underline;
+    text-align: center;
+    font-variant: small-caps;
+    line-height: 250px;
+}
+.h1:hover{
+    background-color: blue;
+    color: white;
+    font-variant: small-caps;
+    text-decoration: underline;
+    text-align: center;
+}
+.akr{
+    color: crimson;
+    line-height: 40px;
+}
+.akr:hover{
+background-color: crimson;
+color: rgb(1, 68, 252);
+line-height: 40px;
+}
+.gtk{
+    color: rgb(107, 20, 220);
+    line-height: 40px;
+}
+.gtk:hover{
+    background-color: rgb(150, 248, 255);
+    color: rgb(252, 1, 1);
+    line-height: 40px;
+}
+.peserta{
+    color: rgb(51, 255, 0);
+    line-height: 40px;
+}
+.peserta:hover{
+    background-color: rgb(155, 255, 146);
+    color: rgb(48, 0, 54);
+    line-height: 40px;
+}
+.cr{
+    line-height: 24px;
+    font-weight: bold;
+}
+.cr:hover{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    background-color: goldenrod;
+}
